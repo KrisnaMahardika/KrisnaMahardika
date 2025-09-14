@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krisna Mahardika</h1>
-<h3 align="center">Aku ini seorang programer pemula, ajarin dong puh sepuh</h3>
+<h3 align="center">Junior Software Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
