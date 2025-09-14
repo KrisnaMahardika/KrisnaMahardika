@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/gd_krisnaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gd_krisnaa" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/krisna-mahardika" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/linkedin-logo-icon_1273375-1174.jpg?semt=ais_incoming&w=740&q=80" alt="gd_krisnaa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krisna-mahardika/" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/linkedin-logo-icon_1273375-1174.jpg?semt=ais_incoming&w=740&q=80" alt="gd_krisnaa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
